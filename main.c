@@ -1,6 +1,6 @@
 + #include <studio.h>
 +
 + int main (void) {
-    + printf("Hola mundo");
+    + printf("estamos probando un archivo.c");
     + return 2;
-    + }
+    + }s
