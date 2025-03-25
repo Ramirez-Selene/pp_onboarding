@@ -3,4 +3,4 @@
 + int main (void) {
     + printf("estamos probando un archivo.c");
     + return 2;
-    + }s
+    + }
